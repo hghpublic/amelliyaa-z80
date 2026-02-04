@@ -4,3 +4,9 @@ cmake-build-release
 tests/test-roms/*.com
 tests/test-roms/*.cim
 tests/unit-tests/*.json
+
+# cmake
+/build/
+
+# macos
+.DS_Store
